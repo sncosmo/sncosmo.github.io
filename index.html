@@ -27,7 +27,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <p>SNCosmo is a pure-Python library for simulating, fitting and typing supernova light curves, built on NumPy, SciPy and AstroPy.</p>
+        <p>SNCosmo is a Python library for simulating, fitting and typing supernova light curves, built on NumPy, SciPy and AstroPy.</p>
 
 <h3>
 <a name="example" class="anchor" href="#example"><span class="octicon octicon-link"></span></a>Example</h3>
@@ -35,7 +35,7 @@
 <p>Generate observed photometric data from a light curve model:</p>
 
 <div class="highlight highlight-python"><pre><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">sncosmo</span>
-<span class="o">&gt;&gt;&gt;</span> <span class="n">model</span> <span class="o">=</span> <span class="n">sncosmo</span><span class="o">.</span><span class="n">get_obsmodel</span><span class="p">(</span><span class="s">'salt2'</span><span class="p">)</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">model</span> <span class="o">=</span> <span class="n">sncosmo</span><span class="o">.</span><span class="n">Model</span><span class="p">(</span><span class="n">source</span><span class="o">=</span><span class="s">'salt2'</span><span class="p">)</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="n">model</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">x0</span><span class="o">=</span><span class="mf">1.e-7</span><span class="p">,</span> <span class="n">x1</span><span class="o">=</span><span class="mf">0.5</span><span class="p">,</span> <span class="n">c</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span> <span class="n">z</span><span class="o">=</span><span class="mf">1.0</span><span class="p">,</span> <span class="n">t0</span><span class="o">=</span><span class="mf">55100.</span><span class="p">)</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="n">model</span><span class="o">.</span><span class="n">bandmag</span><span class="p">(</span><span class="s">'sdssr'</span><span class="p">,</span> <span class="s">'ab'</span><span class="p">,</span> <span class="n">times</span><span class="o">=</span><span class="p">[</span><span class="mf">55075.</span><span class="p">,</span> <span class="mf">55100.</span><span class="p">,</span> <span class="mf">55140.</span><span class="p">])</span>
 <span class="n">array</span><span class="p">([</span> <span class="mf">27.1180182</span> <span class="p">,</span>  <span class="mf">25.68243714</span><span class="p">,</span>  <span class="mf">28.28456537</span><span class="p">])</span>
@@ -53,7 +53,7 @@
 
 <p>To report bugs and request features, please use the <a href="https://github.com/sncosmo/sncosmo/issues">issue tracker</a>. To contact me directly, please use kylebarbary [at] gmail dot com.</p>
 
-<p>We are developing this package for use with the Dark Energy Survey, but it is designed to be generally useful for supernova analysis. We welcome comments and contributions. To follow the development and get a copy of the latest development code, visit the <a href="https://github.com/sncosmo/sncosmo">GitHub</a> repository page.</p>
+<p>We welcome comments and contributions. To follow the development and get a copy of the latest development code, visit the <a href="https://github.com/sncosmo/sncosmo">GitHub</a> repository page.</p>
       </section>
     </div>
 
