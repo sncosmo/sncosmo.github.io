@@ -1,0 +1,8 @@
+# emacs files
+*~
+
+# pycharm files
+.idea
+
+# jekyll files
+_site
