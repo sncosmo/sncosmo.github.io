@@ -1,0 +1,10 @@
+{
+    "nugent-sn1a_v1.2": "https://c3.lbl.gov/nugent/templates/sn1a_flux.v1.2.dat.gz",
+    "nugent-sn91t_v1.1": "https://c3.lbl.gov/nugent/templates/sn91t_flux.v1.1.dat.gz",
+    "nugent-sn91bg_v1.1": "https://c3.lbl.gov/nugent/templates/sn91bg_flux.v1.1.dat.gz",
+    "nugent-sn1bc_v1.1": "https://c3.lbl.gov/nugent/templates/sn1bc_flux.v1.1.dat.gz",
+    "nugent-hyper_v1.2": "https://c3.lbl.gov/nugent/templates/hyper_flux.v1.2.dat.gz",
+    "nugent-sn2p_v1.2": "https://c3.lbl.gov/nugent/templates/sn2p_flux.v1.2.dat.gz",
+    "nugent-sn2l_v1.2": "https://c3.lbl.gov/nugent/templates/sn2l_flux.v1.2.dat.gz",
+    "nugent-sn2n_v2.1": "https://c3.lbl.gov/nugent/templates/sn2n_flux.v2.1.dat.gz"
+}
