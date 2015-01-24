@@ -72,5 +72,7 @@
     "whalen-z25D_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25D.sed.restframe10pc.dat",
     "whalen-z25G_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25G.sed.restframe10pc.dat",
     "whalen-z40B_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40B.sed.restframe10pc.dat",
-    "whalen-z40G_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40G.sed.restframe10pc.dat"
+    "whalen-z40G_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40G.sed.restframe10pc.dat",
+    "vega": "ftp://ftp.stsci.edu/cdbs/calspec/alpha_lyr_stis_007.fits",
+    "bd17": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits"
 }
