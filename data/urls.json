@@ -27,52 +27,98 @@
     "snana-2004fe_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2004fe.SED",
     "snana-2004gq_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2004gq.SED",
     "snana-sdss004012_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-004012.SED",
-    "snana-sdss013195_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-013195.SED",
+    "snana-2006fo_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-013195.SED",
     "snana-sdss014475_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014475.SED",
-    "snana-sdss015475_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015475.SED",
-    "snana-sdss017548_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-017548.SED",
+    "snana-2006lc_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015475.SED",
+    "snana-2007ms_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-017548.SED",
     "snana-04D1la_v1.0": "http://sncosmo.github.io/data/models/snana/SNLS-04D1la.SED",
     "snana-04D4jv_v1.0": "http://sncosmo.github.io/data/models/snana/SNLS-04D4jv.SED",
     "snana-2004gv_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2004gv.SED",
     "snana-2006ep_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2006ep.SED",
-    "snana-2007Y_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2007Y.SED",
-    "snana-sdss000020_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-000020.SED",
-    "snana-sdss002744_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-002744.SED",
-    "snana-sdss014492_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014492.SED",
-    "snana-sdss019323_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-019323.SED",
-    "snana-sdss000018_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-000018.SED",
-    "snana-sdss003818_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-003818.SED",
-    "snana-sdss013376_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-013376.SED",
-    "snana-sdss014450_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014450.SED",
-    "snana-sdss014599_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014599.SED",
-    "snana-sdss015031_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015031.SED",
-    "snana-sdss015320_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015320.SED",
-    "snana-sdss015339_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015339.SED",
-    "snana-sdss017564_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-017564.SED",
-    "snana-sdss017862_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-017862.SED",
-    "snana-sdss018109_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018109.SED",
-    "snana-sdss018297_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018297.SED",
-    "snana-sdss018408_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018408.SED",
-    "snana-sdss018441_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018441.SED",
-    "snana-sdss018457_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018457.SED",
-    "snana-sdss018590_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018590.SED",
-    "snana-sdss018596_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018596.SED",
-    "snana-sdss018700_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018700.SED",
-    "snana-sdss018713_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018734.SED",
-    "snana-sdss018793_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018793.SED",
-    "snana-sdss018834_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018834.SED",
-    "snana-sdss018892_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018892.SED",
-    "snana-sdss020038_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-020038.SED",
-    "snana-sdss012842_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-012842.SED",
-    "snana-sdss013449_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-013449.SED",
-    "whalen-z15B_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z15B.sed.restframe10pc.dat",
-    "whalen-z15D_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z15D.sed.restframe10pc.dat",
-    "whalen-z15G_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z15G.sed.restframe10pc.dat",
-    "whalen-z25B_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25B.sed.restframe10pc.dat",
-    "whalen-z25D_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25D.sed.restframe10pc.dat",
-    "whalen-z25G_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25G.sed.restframe10pc.dat",
-    "whalen-z40B_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40B.sed.restframe10pc.dat",
-    "whalen-z40G_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40G.sed.restframe10pc.dat",
+    "snana-2007y_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2007Y.SED",
+    "snana-2004ib_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-000020.SED",
+    "snana-2005hm_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-002744.SED",
+    "snana-2006jo_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014492.SED",
+    "snana-2007nc_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-019323.SED",
+    "snana-2004hx_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-000018.SED",
+    "snana-2005gi_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-003818.SED",
+    "snana-2006gq_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-013376.SED",
+    "snana-2006kn_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014450.SED",
+    "snana-2006jl_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-014599.SED",
+    "snana-2006iw_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015031.SED",
+    "snana-2006kv_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015320.SED",
+    "snana-2006ns_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-015339.SED",
+    "snana-2007iz_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-017564.SED",
+    "snana-2007nr_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-017862.SED",
+    "snana-2007kw_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018109.SED",
+    "snana-2007ky_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018297.SED",
+    "snana-2007lj_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018408.SED",
+    "snana-2007lb_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018441.SED",
+    "snana-2007ll_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018457.SED",
+    "snana-2007nw_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018590.SED",
+    "snana-2007ld_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018596.SED",
+    "snana-2007md_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018700.SED",
+    "snana-2007lz_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018713.SED",
+    "snana-2007lx_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018734.SED",
+    "snana-2007og_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018793.SED",
+    "snana-2007ny_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018834.SED",
+    "snana-2007nv_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-018892.SED",
+    "snana-2007pg_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-020038.SED",
+    "snana-2006ez_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-012842.SED",
+    "snana-2006ix_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-013449.SED",
+    "whalen-z15b_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z15B.sed.restframe10pc.dat",
+    "whalen-z15d_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z15D.sed.restframe10pc.dat",
+    "whalen-z15g_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z15G.sed.restframe10pc.dat",
+    "whalen-z25b_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25B.sed.restframe10pc.dat",
+    "whalen-z25d_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25D.sed.restframe10pc.dat",
+    "whalen-z25g_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25G.sed.restframe10pc.dat",
+    "whalen-z40b_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40B.sed.restframe10pc.dat",
+    "whalen-z40g_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40G.sed.restframe10pc.dat",
     "vega": "ftp://ftp.stsci.edu/cdbs/calspec/alpha_lyr_stis_007.fits",
     "bd17": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits"
 }
+
+
+for name, sntype in [('snana-2004fe', 'SN Ic'),
+                     ('snana-2004gq', 'SN Ic'),
+                     ('snana-sdss004012', 'SN Ic'),  # no IAU ID
+                     ('snana-2006fo', 'SN Ic'),  # PSNID, sdss013195
+                     ('snana-sdss014475', 'SN Ic'), # no IAU ID
+                     ('snana-2006lc', 'SN Ic'), # sdss015475
+                     ('snana-2007ms', 'SN II-pec'), # sdss017458 (Ic in SNANA?)
+                     ('snana-04D1la', 'SN Ic'),
+                     ('snana-04D4jv', 'SN Ic'),
+                     ('snana-2004gv', 'SN Ib'),
+                     ('snana-2006ep', 'SN Ib'),
+                     ('snana-2007Y', 'SN Ib'),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
