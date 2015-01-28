@@ -79,20 +79,6 @@
 }
 
 
-for name, sntype in [('snana-2004fe', 'SN Ic'),
-                     ('snana-2004gq', 'SN Ic'),
-                     ('snana-sdss004012', 'SN Ic'),  # no IAU ID
-                     ('snana-2006fo', 'SN Ic'),  # PSNID, sdss013195
-                     ('snana-sdss014475', 'SN Ic'), # no IAU ID
-                     ('snana-2006lc', 'SN Ic'), # sdss015475
-                     ('snana-2007ms', 'SN II-pec'), # sdss017458 (Ic in SNANA?)
-                     ('snana-04D1la', 'SN Ic'),
-                     ('snana-04D4jv', 'SN Ic'),
-                     ('snana-2004gv', 'SN Ib'),
-                     ('snana-2006ep', 'SN Ib'),
-                     ('snana-2007Y', 'SN Ib'),
-
-
 
 
 
