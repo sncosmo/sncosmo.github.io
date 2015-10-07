@@ -74,6 +74,7 @@
     "whalen-z25g_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z25G.sed.restframe10pc.dat",
     "whalen-z40b_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40B.sed.restframe10pc.dat",
     "whalen-z40g_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40G.sed.restframe10pc.dat",
+    "mlcs2k2_v1.0": "http://www.physics.rutgers.edu/~saurabh/xfer/mlcs2k2.modelflux.fits",
     "vega": "ftp://ftp.stsci.edu/cdbs/calspec/alpha_lyr_stis_007.fits",
     "bd17": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits"
 }
