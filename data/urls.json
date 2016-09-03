@@ -23,7 +23,7 @@
     "salt2_v2.0": "http://supernovae.in2p3.fr/salt/lib/exe/fetch.php?media=salt2_model_data-2-0.tar.gz",
     "salt2_v2.4": "http://supernovae.in2p3.fr/salt/lib/exe/fetch.php?media=salt2_model_data-2-4.tar.gz",
     "salt2-extended_v1.0": "http://sncosmo.github.io/data/models/salt2_extended.tar.gz",
-    "snf-2011fe_v1.0": "http://snfactory.lbl.gov/snf/data/SN2011fe.tar.gz",
+    "snf-2011fe_v1.0": "http://snfactory.lbl.gov/snf/data/SNfactory_Pereira_etal_2013_SN2011fe.tar.gz",
     "snana-2004fe_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2004fe.SED",
     "snana-2004gq_v1.0": "http://sncosmo.github.io/data/models/snana/CSP-2004gq.SED",
     "snana-sdss004012_v1.0": "http://sncosmo.github.io/data/models/snana/SDSS-004012.SED",
