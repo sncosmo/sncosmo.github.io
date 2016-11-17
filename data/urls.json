@@ -74,5 +74,11 @@
     "whalen-z40g_v1.0": "http://sncosmo.github.io/data/models/whalen/popIII-z40G.sed.restframe10pc.dat",
     "mlcs2k2_v1.0": "http://www.physics.rutgers.edu/~saurabh/xfer/mlcs2k2.modelflux.v1.0.fits",
     "vega": "ftp://ftp.stsci.edu/cdbs/calspec/alpha_lyr_stis_007.fits",
-    "bd17": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits"
+    "bd17": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits",
+    "lsstu": "http://sncosmo.github.io/data/bandpasses/lsst/total_u.dat",
+    "lsstg": "http://sncosmo.github.io/data/bandpasses/lsst/total_g.dat",
+    "lsstr": "http://sncosmo.github.io/data/bandpasses/lsst/total_r.dat",
+    "lssti": "http://sncosmo.github.io/data/bandpasses/lsst/total_i.dat",
+    "lsstz": "http://sncosmo.github.io/data/bandpasses/lsst/total_z.dat",
+    "lssty": "http://sncosmo.github.io/data/bandpasses/lsst/total_y.dat"
 }
