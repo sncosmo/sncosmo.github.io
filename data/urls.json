@@ -80,5 +80,6 @@
     "lsstr": "http://sncosmo.github.io/data/bandpasses/lsst/total_r.dat",
     "lssti": "http://sncosmo.github.io/data/bandpasses/lsst/total_i.dat",
     "lsstz": "http://sncosmo.github.io/data/bandpasses/lsst/total_z.dat",
-    "lssty": "http://sncosmo.github.io/data/bandpasses/lsst/total_y.dat"
+    "lssty": "http://sncosmo.github.io/data/bandpasses/lsst/total_y.dat",
+    "megacampsf_v2.4": "http://sncosmo.github.io/data/bandpasses/megacampsf.tar.gz"
 }
