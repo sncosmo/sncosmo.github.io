@@ -12,5 +12,5 @@
     "models/snf/SN2011fe.tar.gz": "http://snfactory.lbl.gov/snf/data/SNfactory_Pereira_etal_2013_SN2011fe.tar.gz",
     "models/mlcs2k2/mlcs2k2.modelflux.v1.0.fits": "http://www.physics.rutgers.edu/~saurabh/xfer/mlcs2k2.modelflux.v1.0.fits",
     "spectra/alpha_lyr_stis_007.fits": "ftp://ftp.stsci.edu/cdbs/calspec/alpha_lyr_stis_007.fits",
-    "spectra/bd_17d4708_stisnic_005.fits": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits",
+    "spectra/bd_17d4708_stisnic_005.fits": "ftp://ftp.stsci.edu/cdbs/calspec/bd_17d4708_stisnic_005.fits"
 }
