@@ -80,5 +80,5 @@
     "lsstr": "http://sncosmo.github.io/data/bandpasses/lsst/total_r.dat",
     "lssti": "http://sncosmo.github.io/data/bandpasses/lsst/total_i.dat",
     "lsstz": "http://sncosmo.github.io/data/bandpasses/lsst/total_z.dat",
-    "lssty": "http://sncosmo.github.io/data/bandpasses/lsst/total_y.dat",
+    "lssty": "http://sncosmo.github.io/data/bandpasses/lsst/total_y.dat"
 }
