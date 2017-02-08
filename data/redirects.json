@@ -29,5 +29,6 @@
     "bandpasses/wfc3-ir/f139m.IR.tab": "http://www.stsci.edu/hst/wfc3/ins_performance/throughputs/Throughput_Tables/f139m.IR.tab",
     "bandpasses/wfc3-ir/f140w.IR.tab": "http://www.stsci.edu/hst/wfc3/ins_performance/throughputs/Throughput_Tables/f140w.IR.tab",
     "bandpasses/wfc3-ir/f153m.IR.tab": "http://www.stsci.edu/hst/wfc3/ins_performance/throughputs/Throughput_Tables/f153m.IR.tab",
-    "bandpasses/wfc3-ir/f160w.IR.tab": "http://www.stsci.edu/hst/wfc3/ins_performance/throughputs/Throughput_Tables/f160w.IR.tab"
+    "bandpasses/wfc3-ir/f160w.IR.tab": "http://www.stsci.edu/hst/wfc3/ins_performance/throughputs/Throughput_Tables/f160w.IR.tab",
+    "bandpasses/kepler/kepler_response_hires1.txt": "https://keplergo.arc.nasa.gov/kepler_response_hires1.txt"
 }
