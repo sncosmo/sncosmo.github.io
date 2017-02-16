@@ -1,0 +1,4 @@
+JWST MIRI bandpasses
+from http://ircamera.as.arizona.edu/MIRI/ImPCE_TN-00072-ATC-Iss2.xlsx
+split into different files with
+https://gist.github.com/kbarbary/966bd8fcfa42e3631b6a1b8ae0a4c882
