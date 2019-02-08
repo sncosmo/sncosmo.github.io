@@ -1,0 +1,25 @@
+
+# ====================================== 
+# SALT2.INFO from Pierel et al. 2018 SED extrapolation paper: https://arxiv.org/abs/1808.02534
+# The SALT2 model from 3500-8000A is left untouched. The UV is updated/extrapolated blueward of 3500 using 
+# Foley 2016 Ia-UV model, and redward of 8000A using 45 low-z SNIa spectra. The SALT2 color law is extended beyond the
+# nominal 7000A by having it track an R_V=3.1 dust extinction law at NIR wavelengths. This is NOT a retraining of the 
+# original SALT2 model, just a first-order extrapolation to NIR (and UV) wavelengths. Now covers 1700-25000A.
+
+RESTLAMBDA_RANGE: 1700. 25000.  # extended using snsedextend tools 
+COLORLAW_VERSION: 1 
+COLORCOR_PARAMS: 2800 7000 4  -0.50429400 0.78769100 -0.46171500 0.08156190
+COLOR_OFFSET: 0.0 
+
+MAG_OFFSET: 0.27 
+
+SEDFLUX_INTERP_OPT: 2 # 1=>linear, 2=>spline 
+ERRMAP_INTERP_OPT: 1  # 0=snake off; 1=>linear 2=>spline 
+ERRMAP_KCOR_OPT: 1    # 1/0 => on/off
+
+MAGERR_FLOOR: 0.005 # don't allow smaller error than this 
+MAGERR_LAMOBS: 0.1 2000 4000 # magerr minlam maxlam 
+MAGERR_LAMREST: 0.1 100 200 # magerr minlam maxlam 
+
+SIGMA_INT: 0.106 # used in simulation 
+
