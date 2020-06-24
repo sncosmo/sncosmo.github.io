@@ -12,5 +12,5 @@
     "models/snemo/snemo2_ev.dat": "http://snfactory.lbl.gov/snemo/snemo2_ev.dat",
     "models/snemo/snemo7_ev.dat": "http://snfactory.lbl.gov/snemo/snemo7_ev.dat",
     "models/snemo/snemo15_ev.dat": "http://snfactory.lbl.gov/snemo/snemo15_ev.dat",
-    "models/snemo/sugar.tar.gz" : "http://supernovae.in2p3.fr/sugar_template/sugar.tar.gz"
+    "models/sugar/sugar.tar.gz" : "http://supernovae.in2p3.fr/sugar_template/sugar.tar.gz"
 }
