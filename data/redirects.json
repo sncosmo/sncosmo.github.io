@@ -1,6 +1,6 @@
 {
-    "bandpasses/atlas/Atlas.cyan": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=Misc/Atlas.cyan",
-    "bandpasses/atlas/Atlas.orange": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=Misc/Atlas.orange",
+    "bandpasses/atlas/Atlas.Cyan": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=Misc/Atlas.cyan",
+    "bandpasses/atlas/Atlas.Orange": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=Misc/Atlas.orange",
     "models/nugent/sn1a_flux.v1.2.dat": "http://c3.lbl.gov/nugent/templates/sn1a_flux.v1.2.dat.gz",
     "models/nugent/sn91t_flux.v1.1.dat": "http://c3.lbl.gov/nugent/templates/sn91t_flux.v1.1.dat.gz",
     "models/nugent/sn91bg_flux.v1.1.dat": "http://c3.lbl.gov/nugent/templates/sn91bg_flux.v1.1.dat.gz",
