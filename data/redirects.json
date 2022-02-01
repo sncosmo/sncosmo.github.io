@@ -1,4 +1,7 @@
 {
+    "bandpasses/atlas/2MASS.J": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=2MASS/2MASS.J",
+    "bandpasses/atlas/2MASS.H": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=2MASS/2MASS.H",
+    "bandpasses/atlas/2MASS.Ks": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=2MASS/2MASS.Ks",
     "bandpasses/atlas/Atlas.Cyan": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=Misc/Atlas.cyan",
     "bandpasses/atlas/Atlas.Orange": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=Misc/Atlas.orange",
     "models/nugent/sn1a_flux.v1.2.dat": "http://c3.lbl.gov/nugent/templates/sn1a_flux.v1.2.dat.gz",
