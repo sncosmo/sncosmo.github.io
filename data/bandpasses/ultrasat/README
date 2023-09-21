@@ -1,0 +1,5 @@
+ULTRASAT bandpasses
+from 2304.14482
+ULTRASAT_TR.dat: a 9001x25 table of ULTRASAT total throughput (accounting for all optical elements, the detector QE, and obscuration) for 9001 different wavelengths and 25  radial positions.
+Rdeg.dat: The corresponding 25 radial positions in degrees, from the center of the FoV. As a reminder - we have 4 sensors, 7.14x7.14 deg each.
+Wavelength.dat: The corresponding 9001 wavelengths [Ang].
