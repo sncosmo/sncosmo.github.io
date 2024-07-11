@@ -16,6 +16,7 @@
     "models/nugent/sn1a_flux.v1.2.dat": "http://c3.lbl.gov/nugent/templates/sn1a_flux.v1.2.dat.gz",
     "models/nugent/sn91t_flux.v1.1.dat": "http://c3.lbl.gov/nugent/templates/sn91t_flux.v1.1.dat.gz",
     "models/nugent/sn91bg_flux.v1.1.dat": "http://c3.lbl.gov/nugent/templates/sn91bg_flux.v1.1.dat.gz",
+    "models/nugent/sn1superc_flux.v1.0.dat": "https://c3.lbl.gov/nugent/templates/superc_flux.v1.0.dat.gz",
     "models/nugent/sn1bc_flux.v1.1.dat": "http://c3.lbl.gov/nugent/templates/sn1bc_flux.v1.1.dat.gz",
     "models/nugent/hyper_flux.v1.2.dat": "http://c3.lbl.gov/nugent/templates/hyper_flux.v1.2.dat.gz",
     "models/nugent/sn2p_flux.v1.2.dat": "http://c3.lbl.gov/nugent/templates/sn2p_flux.v1.2.dat.gz",
