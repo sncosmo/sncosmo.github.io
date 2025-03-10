@@ -8,6 +8,8 @@
     "bandpasses/gaia/gaia.G": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=GAIA/GAIA3.G", 
     "bandpasses/gaia/gaia.Grp": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=GAIA/GAIA3.Grp",
     "bandpasses/gaia/gaia.Grvs": "http://svo2.cab.inta-csic.es/svo/theory/fps/getdata.php?format=ascii&id=GAIA/GAIA3.Grvs",
+    "bandpasses/galex/galex.nuv": "http://svo2.cab.inta-csic.es/svo/theory/fps3/getdata.php?format=ascii&id=GALEX/GALEX.NUV",
+     "bandpasses/galex/galex.fuv": "http://svo2.cab.inta-csic.es/theory/fps/getdata.php?format=ascii&id=GALEX/GALEX.FUV",
     "bandpasses/tess/tess.Red": "http://svo2.cab.inta-csic.es/svo/theory/fps3/getdata.php?format=ascii&id=TESS/TESS.Red",
     "bandpasses/goto/goto.B": "http://svo2.cab.inta-csic.es/svo/theory/fps3/getdata.php?format=ascii&id=GOTO/GOTO.B",
     "bandpasses/goto/goto.G": "http://svo2.cab.inta-csic.es/svo/theory/fps3/getdata.php?format=ascii&id=GOTO/GOTO.G",  
